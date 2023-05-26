@@ -1,6 +1,7 @@
 # Smart SwitchBoard Project
 Smart SwitchBoard Project Diagram as Below
-![image](https://github.com/kalpeshpatelce/IOT/assets/13175900/65714ffe-5d6f-49f7-9148-e6dad4dc920c)
+![image](https://github.com/kalpeshpatelce/IOT/assets/13175900/0af6c02b-203b-4aa0-8dd1-62b2f8ab9522)
+
 ## Code for SmartBoard Project
 ```
 #include <ESP8266WiFi.h>
