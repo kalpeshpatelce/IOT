@@ -1,8 +1,8 @@
 # SmartBoard Project
 SmartBoard Project Diagram as Below
 ![image](https://github.com/kalpeshpatelce/IOT/assets/13175900/65714ffe-5d6f-49f7-9148-e6dad4dc920c)
-Code for SmartBoard Project
-
+//Code for SmartBoard Project
+```
 #include <ESP8266WiFi.h>
 #include <WiFiClient.h>
 #include <ESP8266WebServer.h>
@@ -268,4 +268,4 @@ Serial.println(CurrentConcatTimeString);
    }
 
 }
-
+```
