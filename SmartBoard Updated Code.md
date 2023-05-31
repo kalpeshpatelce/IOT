@@ -376,3 +376,9 @@ String formatDigits(int digits) {
 }
 
 ```
+# Main Page
+![image](https://github.com/kalpeshpatelce/IOT/assets/13175900/aea3fe7a-376a-4ad6-b4c1-ad2aa577c2ea)
+
+# Set RTC Module Time
+![image](https://github.com/kalpeshpatelce/IOT/assets/13175900/66a71ad1-41d7-4346-8841-cc5f9cf21b85)
+
