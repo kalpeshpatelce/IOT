@@ -1,5 +1,5 @@
-SMARTBOARD A
-````
+# SMARTBOARD A
+```
 #include <ESP8266WiFi.h>
 #include <WiFiClient.h>
 #include <ESP8266WebServer.h>
@@ -375,4 +375,4 @@ String formatDigits(int digits) {
   return String(digits);
 }
 
-````
+```
